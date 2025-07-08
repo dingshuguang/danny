@@ -1,7 +1,6 @@
 // 文章列表数据，由Python生成
 const posts = [
-    { date: "2025-3-8", title: "2025-3-8" },
-    { date: "2025-7-6", title: "2025-7-6" }
+    { date: "2025-6-21", title: "2025-6-21" }
 ];
 
 document.addEventListener('DOMContentLoaded', () => {
